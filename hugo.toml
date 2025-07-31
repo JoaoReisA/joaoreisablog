@@ -47,6 +47,10 @@ theme = "hugo-blog-awesome"
 		endLevel = 4 # ToC ends at H4
 		ordered = false # generates <ul> instead of <ol>
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 ############################## English language ################################
 [Languages.en-us]
   languageName = "English"
