@@ -7,4 +7,4 @@ tags:
   - chore
 ---
 Esse é meu primeiro post.
-Teste adição de conteúdo.
+Teste adição de conteúdo.test
