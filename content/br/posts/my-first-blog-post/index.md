@@ -6,4 +6,5 @@ description: Meu primeiro post
 tags:
   - chore
 ---
-Esse é meu primeiro post
+Esse é meu primeiro post.
+Teste adição de conteúdo.
