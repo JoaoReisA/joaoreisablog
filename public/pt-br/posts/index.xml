@@ -14,7 +14,7 @@
       
       <guid>http://localhost:1313/pt-br/posts/my-first-blog-post/</guid>
       
-      <description>&lt;p&gt;Este artigo fornece um exemplo da sintaxe básica de Markdown que pode ser usada em arquivos de conteúdo do Hugo e também mostra se os elementos básicos de HTML são decorados com CSS em um tema do Hugo.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Esse é meu primeiro post&lt;/p&gt;</description>
       
     </item>
     
