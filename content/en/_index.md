@@ -1,4 +1,4 @@
 ---
-title: "Início"
-author : "Autor"
+title: "Home"
+author : "João Victor Reis"
 ---

@@ -1,23 +1,10 @@
 ---
 title: Sobre
-description: Hugo, o framework mais rápido do mundo para contruir páginas da web
-author: João Victor Reis
+description: Um pouco sobre mim
+author: Me
+toc: "false"
 ---
+Sempre me pareceu um pouco estranho fazer apresentações, mas já que estamos aqui, lá vai um pouco de quem eu sou.
 
-Escrito em Go, Hugo é um gerador de sites estáticos de código aberto disponível sob a [Licença Apache 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo suporta os tipos de arquivos de dados TOML, YAML e JSON, arquivos de conteúdo em Markdown e HTML, e usa shortcodes para adicionar conteúdo rico. Outras funcionalidades notáveis incluem taxonomias, modo multilíngue, processamento de imagens, formatos de saída personalizados, minificação de HTML/CSS/JS e suporte para fluxos de trabalho com Sass e SCSS.
-
-Hugo faz uso de uma variedade de projetos de código aberto, incluindo:
-
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo é ideal para blogs, sites corporativos, portfólios criativos, revistas online, aplicações de uma só página ou até mesmo um site com milhares de páginas.
-
-Hugo é para pessoas que desejam codificar seu próprio site sem se preocupar em configurar runtimes complicados, dependências e bancos de dados.
-
-Sites construídos com Hugo são extremamente rápidos, seguros e podem ser implantados em qualquer lugar, incluindo AWS, GitHub Pages, Heroku, Netlify e qualquer outro provedor de hospedagem.
-
-Saiba mais e contribua no [GitHub](https://github.com/gohugoio).
+Tenho 23 anos e atualmente trabalho com engenheiro de software mobile no SofiBank, utilizando Flutter e tecnologias nativas. To aqui pra compartilhar o pouco conhecimento que tenho e aprender ao longo da jornada, no momento tenho me interessado bastante em utilizar go para meus projetos e aprender um pouco mais de backend, quem sabe não trabalhe com isso no futuro. 
+Fora do mundo de TI eu ando de skate, toco guitarra e to sempre com um hobby novo que sou ruim mas me divirto.
