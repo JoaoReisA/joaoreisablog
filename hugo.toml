@@ -83,7 +83,7 @@ theme = "hugo-blog-awesome"
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
-  description = "Minimal Hugo blog theme with light and dark mode support"
+  description = "Hey, I'm a software developer and here I'll talk about this and some other stuff."
   mainSections = ['posts']
   toc = true # set to false to disable table of contents 'globally'
   tocOpen = false # set to true to open table of contents by default
@@ -148,7 +148,7 @@ theme = "hugo-blog-awesome"
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
-  description = "Um tema Hugo veloz e minimalista com suporte a modo claro e escuro para rodar um blog ou site pessoal"
+  description = "Eaí, sou um desenvolvedor de software e aqui falo sobre isso e alguns outros interesses."
   mainSections = ['posts']
   toc = true # set to false to disable table of contents 'globally'
   tocOpen = false # set to true to open table of contents by default
