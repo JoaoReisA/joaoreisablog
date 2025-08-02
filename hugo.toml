@@ -195,5 +195,5 @@ name = "X"
 url = "https://x.com/bibitovr"
 
 [[params.socialIcons]]
-name = "Rss"
-url = "/index.xml"
+name = "Linkedin"
+url = "https://www.linkedin.com/in/joaoreisdev"
